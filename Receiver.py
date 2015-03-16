@@ -1,5 +1,6 @@
 ## Photonic Device Research Group
-##
+## University of Illinois at Urbana-Champaign
+## IEEE Photonics Society
 ## Spring 2015
 
 #!/usr/bin/python
