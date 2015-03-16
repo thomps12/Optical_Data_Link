@@ -25,3 +25,4 @@ Run the reciever and laser_transmitter code in two terminals (or use two raspber
 **Feel free to ask for more information!**
 
 -Brad Thompson, University of Illinois Urbana-Champaign, 2015
+email me at my github name at domain illinois.edu
