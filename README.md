@@ -23,3 +23,5 @@ Run the reciever and laser_transmitter code in two terminals (or use two raspber
 * "sudo python Receiver.py"
 
 **Feel free to ask for more information!**
+
+-Brad Thompson, University of Illinois Urbana-Champaign, 2015
