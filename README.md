@@ -10,7 +10,7 @@ Use a raspberry pi and a laser pointer to send data (text) over a laser! This wa
 * Transistor (We used an IRF520, also overkill for the power needed to drive a laser.
 * Wires to hook everything up!
 
-We used parts from a Spectra sound kit (http://www.adafruit.com/product/1085), which is an analog version of this digital project. That kit allows you to send music over a laser, but doesn't use any digital signals.
+We used parts from a Spectra sound kit (http://www.laserfest.org/about/store/), which is an analog version of this digital project. That kit allows you to send music over a laser, but doesn't use any digital signals.
 
 **Raspberry Pi downloads:**
 * sudo apt-get update
@@ -24,6 +24,6 @@ Run the reciever and laser_transmitter code in two terminals (or use two raspber
 
 **Feel free to ask for more information!**
 
--Brad Thompson, University of Illinois Urbana-Champaign, 2015
+-Brad Thompson, University of Illinois at Urbana-Champaign, 2015
 
 email me at my github name at domain illinois.edu
