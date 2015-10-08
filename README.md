@@ -1,6 +1,10 @@
 # Optical_Data_Link
 Use a raspberry pi and a laser pointer to send data (text) over a laser! This was made as a demonstration, so anyone can visualize digital data being transmitted.
 
+I've assembled some support material to use this for a workshop. They include pages to print for a Raspberry Pi basic introduction, transmitter and receiver code block diagrams, message encoding scheme, handout slips, and some programming reference material.
+
+https://www.dropbox.com/sh/yg63oklfti61hqf/AACSMvXh5mDaPBPvjxi8y0nya?dl=0
+
 **Parts List:**
 * Raspberry Pi
 * Laser Pointer
